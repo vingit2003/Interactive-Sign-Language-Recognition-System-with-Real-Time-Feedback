@@ -10,7 +10,7 @@ Using a camera feed, the model captures, processes, and classifies these gesture
 - NumPy: For managing landmark data.
 - Sklearn: For metrics and splitting dataset.
 
-  **Architecture of the model used**
+**Architecture of the model used**
   inputs = Input(shape=(num_frames_per_video, X.shape[2]))
     
   x1 = LSTM(128, return_sequences=True, activation='tanh')(inputs)
