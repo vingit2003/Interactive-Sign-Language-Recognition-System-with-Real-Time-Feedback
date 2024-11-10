@@ -1,4 +1,4 @@
-# Interactive-Sign-Language-Recognition-System-with-Real-Time-Feedback
+# Interactive Sign Language Recognition System with Real Time Feedback
 This sign language recognition system detects six basic gestures: hello, thanks, welcome, sorry, yes, and strong. 
 Using a camera feed, the model captures, processes, and classifies these gestures. Real-time feedback with confidence score and messages helps users adjust their gestures if needed.
 
