@@ -2,6 +2,8 @@
 This sign language recognition system detects six basic gestures: hello, thanks, welcome, sorry, yes, and strong. 
 Using a camera feed, the model captures, processes, and classifies these gestures. Real-time feedback with confidence score and messages helps users adjust their gestures if needed.
 
+**Medium link:** https://medium.com/@cvineetha2003/interactive-sign-language-recognition-system-with-real-time-feedback-42d8947a179a
+
 **Tools and Technologies**
 - MediaPipe: For landmark extraction, using the Holistic model.
 - OpenCV: To capture video input and display feedback messages.
